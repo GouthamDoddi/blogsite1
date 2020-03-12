@@ -10,5 +10,5 @@ RUN mkdir /blogsite1
 WORKDIR /blogsite1
 COPY ./not_first_project /blogsite1
 
-RUN adduser -D user
-USER user
+RUN adduser -D user1
+USER user1
