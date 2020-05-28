@@ -1,3 +1,4 @@
+djangorestframework
 Django>=3.0.3
 
 flake8>=3.6.0,<3.8.0

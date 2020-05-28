@@ -1,5 +1,4 @@
 FROM python:alpine3.10
-MAINTAINER WaterBottle
 
 ENV PYTHONUNBUFFERED 1
 
